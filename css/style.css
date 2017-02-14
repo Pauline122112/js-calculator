@@ -5,6 +5,15 @@
 
   font: bold 20px aerial, sans-serif;
 }
+h1 {
+    text-align: center;
+    padding-top: 150px;
+    height : 50px;
+    width:100%;
+    color: #33BFFF;
+    font-size: 45px;
+    font-family: CenturyGothic;
+}
 
 #calculator {
   width: 325px;
@@ -70,12 +79,15 @@
 }
 
 #footer {
-  bottom : 170px;
+  bottom : 140px;
   height : 40px;
   margin-top : 40px;
   text-align: center;
   vertical-align: middle;
   position:fixed;
   width:100%;
+  color: #FA8072;
+  font-size: 45px;
+
 
 }
